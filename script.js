@@ -5,7 +5,7 @@ const data = {
     title: "House Manual",
     subtitle: "Find the information you need",
     items: [
-      ["Wifi", "ID: <br>PW: 59919995"],
+      ["Wifi", "ID: yichinohibiki-1<br>PW: 20252668"],
 
       ["Before Entering The House","Please remove your shoes before entering."],
       ["Air Conditioner Remote", `<a href="assets/pdf/airconditionerremote.pdf" target="_blank">Open PDF Guide</a>`],
@@ -63,7 +63,7 @@ const data = {
     title: "宿泊案内",
     subtitle: "必要な情報をお選びください",
     items: [
-      ["Wifi", "ID: TP-Link_1F24_5G<br>PW: 59919995"],
+      ["Wifi", "ID: yichinohibiki-1<br>PW: 20252668"],
 
       [
         "入室前",
@@ -128,7 +128,7 @@ const data = {
     title: "民宿指南",
     subtitle: "请选择您需要的信息",
     items: [
-      ["Wifi", "ID: TP-Link_1F24_5G<br>PW: 59919995"],
+      ["Wifi", "ID: yichinohibiki-1<br>PW: 20252668"],
 
       [
         "进入房屋前",
